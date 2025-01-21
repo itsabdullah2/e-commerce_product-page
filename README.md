@@ -1,5 +1,5 @@
 # This is an e-commerce product page
-## What are the feature of this small app
+## What are the features of this small app
 - Increase and decrease the quantity
 - Add product to cart
 - Delete the product from cart when you set the quantity to zero
